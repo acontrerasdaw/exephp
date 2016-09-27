@@ -1,3 +1,4 @@
+//test
 var salutacio= "Hola Mon! Que facil es incloure 'cometes simples' i \"cometes dobles\"";//crea un popup amb el texte Hola Mon
 var salutacio2 = "Soc el primer script";//crea un popup amb el texte Soc el primer script
 alert(salutacio);
